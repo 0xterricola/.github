@@ -129,3 +129,13 @@ When a security issue is discovered:
 Individual repositories may define more specific security requirements.
 
 Project-specific documentation takes precedence over these general principles where the two differ.
+
+## Broader engineering principles
+
+Security exists within a broader set of engineering values.
+
+Projects maintained by 0xterricola generally aim to advance censorship resistance, free and open-source software, privacy, security, self-custody, and user sovereignty where those properties are relevant to the project.
+
+These principles are influenced by the Ethereum Foundation's CROPS framework — Censorship Resistance, Open Source, Privacy, and Security — but are applied independently and do not imply affiliation with or endorsement by the Ethereum Foundation.
+
+These are design goals rather than guarantees. Individual projects may involve tradeoffs, incomplete implementations, external dependencies, or experimental functionality that limit one or more of these properties.
