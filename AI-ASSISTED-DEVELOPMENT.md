@@ -20,9 +20,30 @@ AI assistance may be used for:
 - security review support;
 - static reasoning;
 - build and tooling assistance;
-- analysis of logs and compiler output.
+- analysis of logs and compiler output;
+- rapid prototyping and proof-of-concept development;
+- exploring implementation approaches and technical ideas;
+- iterative experimentation and refinement.
 
 The amount of AI assistance may vary substantially between repositories and commits.
+
+## Development workflow
+
+AI tools are also used to shorten the path from an idea to something that can be tested.
+
+This may include rapidly producing prototypes, proof-of-concept implementations, experiments, integration tests, or exploratory tooling in order to investigate whether an idea is technically viable.
+
+Development may proceed iteratively:
+
+`idea → prototype → test → investigate → revise → repeat`
+
+Early implementations may therefore prioritize learning, experimentation, and validation before architecture, interfaces, documentation, or security properties are finalized.
+
+Experimental or proof-of-concept code should not be interpreted as production-ready solely because it is functional.
+
+As an idea matures, implementation assumptions, failure modes, dependencies, test coverage, and security implications should be examined more closely and documented where appropriate.
+
+AI assistance is used to accelerate this investigative process, not to replace technical understanding or validation.
 
 ## Responsibility
 
